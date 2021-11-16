@@ -404,6 +404,6 @@ resource "signalfx_dashboard" "demo-dashboard-sample" {
 }
 
 provider "signalfx" {
-    auth_token="ImtopxkTTZ9TBeZe7qQ0Mw"
+    auth_token="VFFs5ww9mgjR5m8lvEcsEQ"
     api_url = "https://api.us1.signalfx.com"
 }
